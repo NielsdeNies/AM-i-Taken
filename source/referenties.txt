@@ -1,0 +1,19 @@
+.. *******************************************************************************
+   * Metafactory	AM-i Documentatie
+   * 
+   * referenties.rst
+   *
+   * Referenties naar externe web-pagina's
+   *******************************************************************************
+
+.. _carmodel-overview: https://mmm-test.metafactory.io/#/car/config/carmodel/list
+.. _carmodel-nieuw: https://mmm-test.metafactory.io/#/car/config/carmodel/new
+.. _carmodel-details: https://mmm-test.metafactory.io/#/car/config/carmodel/detail/
+.. _carbrand-overzicht: https://mmm-test.metafactory.io/#/car/config/carbrand/list
+.. _carbrand-nieuw: https://mmm-test.metafactory.io/#/car/config/carbrand/new
+.. _carmodelyear-overzicht: https://mmm-test.metafactory.io/#/car/config/carmodelyear/list
+.. _carmodelyear-nieuw: https://mmm-test.metafactory.io/#/car/config/carmodelyear/new
+.. _carmodelyeardetails_voorbeeld: https://mmm-test.metafactory.io/#/car/config/carmodelyear/detail/
+.. _carmodelversion-nieuw: https://mmm-test.metafactory.io/#/car/config/carmodelversion/new
+.. _carmodelversiondetail_voorbeeld: https://mmm-test.metafactory.io/#/car/config/carmodelversion/detail/
+
